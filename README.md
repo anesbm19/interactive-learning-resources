@@ -3,7 +3,6 @@
 
 ## YouTube Videos
 - [![The Single Biggest Reason Why Startups Succeed](https://img.youtube.com/vi/9vJRopau0g0/0.jpg)](https://www.youtube.com/watch?v=9vJRopau0g0) - A TED Talk discussing key factors for startup success.
-- [![Once You Visualize Like This](https://img.youtube.com/vi/swYm8teLdW8/0.jpg)](https://www.youtube.com/watch?v=swYm8teLdW8&pp=ygUcb25jZSB5b3UgdmlzdWFsaXplIGxpa2UgdGhpcw%3D%3D) - A video explaining visualization techniques.
 - [![How to Draw to Remember More](https://img.youtube.com/vi/gj3ZnKlHqxI/0.jpg)](https://www.youtube.com/watch?v=gj3ZnKlHqxI&pp=ygUcaG93IHRvIGRyYXcgdG8gcmVtZW1iZXIgbW9yZQ%3D%3D) - Learn how drawing can help improve memory.
 - [![How to Manipulate Anyone](https://img.youtube.com/vi/W6rK0-VqOXc/0.jpg)](https://www.youtube.com/watch?v=W6rK0-VqOXc&pp=ygUYaG93IHRvIG1hbmlwdWxhdGUgYW55b25l) - A video on techniques for manipulating people.
 - [![The First 20 Hours - How to Learn Anything](https://img.youtube.com/vi/5MgBikgcWnY/0.jpg)](https://www.youtube.com/watch?v=5MgBikgcWnY&pp=ygUodGhlIGZpcnN0IDIwIGhvdXJzIGhvdyB0byBsZWFybiBhbnl0aGluZw%3D%3D) - A TED Talk on rapid skill acquisition.
